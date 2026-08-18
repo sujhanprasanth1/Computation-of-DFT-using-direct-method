@@ -37,14 +37,9 @@ plot2d3(K1,angle);
 xlabel('frequency(Hz)');
 ylabel('Phase');
 title('Phase spectrum')
-<br>
-<br>
-<br>
-<br>
-<br>
 
-<br>
 ## CALCULATIONS:
+
 
 <img width="900" height="1600" alt="image" src="https://github.com/user-attachments/assets/9482648c-a6a1-409b-a791-c2450d20d666" />
 <img width="900" height="1600" alt="image" src="https://github.com/user-attachments/assets/69a25af3-86fd-441f-ab64-0ed67c07f524" />
