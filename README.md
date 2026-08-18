@@ -51,11 +51,6 @@ title('Phase spectrum')
 
 
 
-<br>
-<br>
-<br>
-<br>
-<br>
 ### SAMPLE OUTPUT:
 <img width="1600" height="745" alt="WhatsApp Image 2026-08-18 at 9 15 14 AM" src="https://github.com/user-attachments/assets/1b4f4097-7250-438a-bd6c-a4eb345cc4d7" />
 
