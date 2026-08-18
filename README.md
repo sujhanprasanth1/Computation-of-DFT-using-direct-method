@@ -44,7 +44,8 @@ title('Phase spectrum')
 <br>
 
 <br>
-### CALCULATIONS:
+## **CALCULATIONS**:
+
 <img width="900" height="1600" alt="image" src="https://github.com/user-attachments/assets/9482648c-a6a1-409b-a791-c2450d20d666" />
 <img width="900" height="1600" alt="image" src="https://github.com/user-attachments/assets/69a25af3-86fd-441f-ab64-0ed67c07f524" />
 <img width="319" height="529" alt="image" src="https://github.com/user-attachments/assets/f98dc0b6-f086-4957-bb78-d5ab099313af" />
