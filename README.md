@@ -7,7 +7,9 @@ PC installed with SCILAB
 ## PROGRAM 
 ### DFT DIRECT METHOD
 clc; 
+
 clear; 
+
 xn=[1 2 3 4 4 3 2 1]; 
 n1=0:1:length(xn)-1; 
 subplot(3,1,1); 
