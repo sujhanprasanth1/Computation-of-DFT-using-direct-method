@@ -6,12 +6,12 @@ To perform and verify DFT using direct method by SCILAB.
 PC installed with SCILAB
 ## PROGRAM 
 ### DFT DIRECT METHOD
-clc;
-clear;
-xn=[1 2 3 4 4 3 2 1];
-n1=0:1:length(xn)-1;
-subplot(3,1,1);
-plot2d3(n1,xn);
+clc; 
+clear; 
+xn=[1 2 3 4 4 3 2 1]; 
+n1=0:1:length(xn)-1; 
+subplot(3,1,1); 
+plot2d3(n1,xn); 
 xlabel('Time n');
 ylabel('Amplitude xn');
 title('Input Sequence');
